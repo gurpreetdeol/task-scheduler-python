@@ -1,0 +1,12 @@
+2024-01-16 10:14:29: Application started
+2024-01-16 10:14:31: 2s job current time : Tue Jan 16 10:14:31 2024
+2024-01-16 10:14:33: 2s job current time : Tue Jan 16 10:14:33 2024
+2024-01-16 10:14:34: 5s job current time : Tue Jan 16 10:14:34 2024
+2024-01-16 10:14:35: 2s job current time : Tue Jan 16 10:14:35 2024
+2024-01-16 10:14:37: 2s job current time : Tue Jan 16 10:14:37 2024
+2024-01-16 10:14:39: 10s job current time : Tue Jan 16 10:14:39 2024
+2024-01-16 10:14:39: 5s job current time : Tue Jan 16 10:14:39 2024
+2024-01-16 10:14:39: 2s job current time : Tue Jan 16 10:14:39 2024
+2024-01-16 10:14:41: 2s job current time : Tue Jan 16 10:14:41 2024
+2024-01-16 10:14:43: 2s job current time : Tue Jan 16 10:14:43 2024
+2024-01-16 10:14:43: Application stopped
